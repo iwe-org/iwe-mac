@@ -1,5 +1,13 @@
 # iWe for Mac Changelog
 
+## 1.24.0 - 2026-11-24
+
+In this release a heading shows its level while you edit it and changes size in one smooth motion, What's New picks up corrections without an update, and HTML pages can no longer reach the network behind your back.
+
+**See a heading's level as you edit it.** The marker beside the heading you are editing reads `H1` to `H6` instead of the same `#` at every level, and the number rolls over when you change the level.
+
+**Headings change size smoothly.** Changing a heading's level, or turning a paragraph into a heading and back, grows or shrinks the text in one motion, and the blocks below move with it. You can keep typing while it animates.
+
 ## 1.23.0 - 2026-11-23
 
 In this release HTML written in your notes renders as a page, images and text files open inside the app, and the conversation panel shows what a conversation has used.
